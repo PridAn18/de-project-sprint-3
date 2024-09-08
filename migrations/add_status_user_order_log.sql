@@ -1,0 +1,1 @@
+alter table staging.user_order_log ADD status VARCHAR(50) NOT NULL;

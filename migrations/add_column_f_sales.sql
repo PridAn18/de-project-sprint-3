@@ -1,0 +1,1 @@
+alter table mart.f_sales ADD status VARCHAR(50) NOT NULL;
